@@ -1,5 +1,8 @@
 _repo: Secret-of-the-Martians_66798
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66798-h/images/cover.jpg
 creator:
   author:
     agent_name: Fairman, Paul W.
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_W._Fairman
     - https://www.gutenberg.org/ebooks/author/53466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66798#Secret-of-the-Martians
 gutenberg_issued: '2021-11-23'
 identifiers:
   gutenberg: '66798'
